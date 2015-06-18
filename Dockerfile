@@ -1,3 +1,3 @@
 FROM busybox:latest
 
-CMD echo hello
+CMD echo update2
